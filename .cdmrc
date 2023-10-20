@@ -1,0 +1,3 @@
+tabs: ["server.js"]
+run-button: node $$file
+terminals: ["node server.js"]
